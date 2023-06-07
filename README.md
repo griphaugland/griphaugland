@@ -5,11 +5,11 @@
 - 🏃 Working out is a hobby of mine. My go-tos are jogging, weight lifting, and soccer.
 - 
 
-## 👨‍🎓 Education 👨‍🎓
+## 👨‍🎓 Education 
 - I’m currently a student at Noroff Vocational School studying Front-End development.
 
 
-## 💼 Work 💼 
+## 💼 Work 
 - I currently freelance, helping small businesses with their websites and website design.
 
 ## 📫 How to reach me 📫
