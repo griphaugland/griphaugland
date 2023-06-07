@@ -12,7 +12,7 @@
 ## 💼 Work 
 - I currently freelance, helping small businesses with their websites and website design.
 
-## 📫 How to reach me 📫
+## 📫 How to reach me 
 You can reach me at
 griphaugland@gmail.com
 or send me a dm on LinkedIn!
