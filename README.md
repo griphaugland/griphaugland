@@ -5,15 +5,15 @@
 - 🏃 Working out is a hobby of mine. My go-tos are jogging, weight lifting, and soccer.
 
 ### 👨‍🎓 Education 
-- I’m currently a student at Noroff Vocational School studying Front-End development.
+- I’m graduated from Noroff Vocational School with a degree Front-End development.
 
 
 ### 💼 Work 
-- I currently freelance, helping small businesses with their websites and website design.
+- I currently work at Stacc Link in Bergen as a Software Developer
 
 ### 📫 How to reach me 
 You can reach me at
-griphaugland@gmail.com
+eirik@griphaugland.com
 or send me a dm on LinkedIn!
 
 #### Thanks for reading, here's a prize 🏅
