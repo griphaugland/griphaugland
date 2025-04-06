@@ -5,7 +5,7 @@
 - 🏃 Working out is a hobby of mine. My go-tos are jogging, weight lifting, and soccer.
 
 ### 👨‍🎓 Education 
-- I’m graduated from Noroff Vocational School with a degree Front-End development.
+- I graduated from Noroff Vocational School in 2024 with a degree in Front-End development.
 
 
 ### 💼 Work 
